@@ -1,0 +1,9 @@
+# directories
+.vs/
+bin/
+bin-int/
+
+Hazel/spdlog/
+
+# files
+*.user
